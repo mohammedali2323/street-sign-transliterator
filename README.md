@@ -1,2 +1,8 @@
-# street-sign-transliterator
-Street Sign Transliterator — OCR + language transliteration project
+streamlit
+opencv-python-headless
+numpy
+pillow
+gtts
+pytesseract
+streamlit-webrtc
+av
