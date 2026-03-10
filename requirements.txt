@@ -1,8 +1,5 @@
 streamlit
-opencv-python-headless
-numpy
+opencv-python
 pillow
+numpy
 gtts
-pytesseract
-streamlit-webrtc
-av
